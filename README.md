@@ -1,2 +1,0 @@
-# openfood-ingredient
-# openfood-ingredient
